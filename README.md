@@ -21,9 +21,9 @@ Data preprocessing involves:
 - **NumPy**: Numerical computations
 - **Matplotlib & Seaborn**: Data visualization
 - **Statsmodels**: Time series modeling
-- **ARIMA/AutoARIMA**: Forecasting models
+- **SARIMA**: Forecasting models
 - **scikit-learn**: For model evaluation
 
 ## Insights and Visualizations
 - **Trend and Seasonality**: Analysis shows a clear upward trend in passenger traffic, along with a yearly seasonality pattern.
-- **Model Performance**: The ARIMA/AutoARIMA model provides reliable forecasts with minimal error, capturing the key patterns in the data.
+- **Model Performance**: The SARIMA model provides reliable forecasts with minimal error, capturing the key patterns in the data.
